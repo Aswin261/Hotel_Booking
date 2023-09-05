@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "Table_type": "circle_11",
+    "TableNo":1,
+    "rent": 4931,
+    "name": "Andrewz",
+    "date":"12_03_2023",
+    "customer_count":11,
+    "payment_mode":"credit_card",
+    "time":"9.00 pm"
+  },
+  {
+    "id": 2,
+    "Table_type": "rect_9",
+    "TableNo":2,
+    "rent": 3500,
+    "name": "Lawrence",
+    "date":"12_03_2023",
+    "customer_count":9,
+    "payment_mode":"internet_banking",
+    "time":"7.00 pm"
+  },
+  {
+    "id": 3,
+    "Table_type": "square_4",
+    "TableNo":7,
+    "rent":1500,
+    "name": "Tom",
+    "date":"19_03_2023",
+    "customer_count":4,
+    "payment_mode":"debit_card",
+    "time":"10.00 pm"
+  },
+  {
+    "id": 4,
+    "Table_type": "rect_6",
+    "TableNo":8,
+    "rent": 2900,
+    "name": "Stephen",
+    "date":"22_03_2023",
+    "customer_count":5,
+    "payment_mode":"credit_card",
+    "time":"6.00 pm"
+  },
+  {
+    "id": 5,
+    "Table_type": "square_4",
+    "TableNo":11,
+    "rent":1500 ,
+    "name": "Bruce",
+    "date":"25_03_2023",
+    "customer_count":3,
+    "payment_mode":"upi",
+    "time":"9.00 pm"
+  },
+  {
+    "id": 6,
+    "Table_type": "rect_9",
+    "TableNo":10,
+    "rent": 3500,
+    "name": "Loki",
+    "date":"19_03_2023",
+    "customer_count":8,
+    "payment_mode":"internet_banking",
+    "time":"8.00 pm"
+  },
+  {
+    "id": 7,
+    "Table_type": "square_4",
+    "TableNo":2,
+    "rent": 1500,
+    "name": "Robb",
+    "date":"25_03_2023",
+    "customer_count":3,
+    "payment_mode":"credit_card",
+    "time":"7.00"
+  },
+  {
+    "id": 8,
+    "Table_type": "rect_6",
+    "TableNo":3,
+    "rent": 2900,
+    "name": "Maisie williams",
+    "date":"23_03_2023",
+    "customer_count":6,
+    "payment_mode":"internet_banking",
+    "time":"10.00 pm"
+  },
+  {
+    "id": 9,
+    "Table_type": "square_4",
+    "TableNo":5,
+    "rent": 1500,
+    "name": "Brandon_ned",
+    "date":"21_03_2023",
+    "customer_count":2,
+    "payment_mode":"upi",
+    "time":"6.00 pm"
+  },
+  {
+    "id": 10,
+    "Table_type": "rect_6",
+    "TableNo":6,
+    "rent": 2900,
+    "name": "Theon",
+    "date":"27_03_2023",
+    "customer_count":6,
+    "payment_mode":"debit_card",
+    "time":"8.00 pm"
+  }
+]

@@ -1,0 +1,23 @@
+.container {
+  background-image: url("https://media.radissonhotels.net/image/metropolitan-hotel-sofia-a-member-of-radisson-individuals/exteriorview/16256-145921-f72742573_3xl.jpg?impolicy=Card&gravity=North");
+  background-repeat:repeat-x;
+  background-size: cover;
+}
+  .container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    height: 100vh;
+    min-width: 200px;
+    width: 100%;
+    margin: auto;
+  }
+  .container > form {
+    width: 70%;
+  }
+  .container>button{
+    border-radius:5px;
+  }
+  
